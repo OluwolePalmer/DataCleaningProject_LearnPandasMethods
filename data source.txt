@@ -1,0 +1,6 @@
+
+source url:
+https://www.kaggle.com/datasets/nspaniol/salary-range-of-data-analysts-uncleaned-dataset?select=Data+Analyst+Jobs.xlsx
+
+author of dataset:
+NSPANIOL
